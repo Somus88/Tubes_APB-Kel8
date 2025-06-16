@@ -1,0 +1,16 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/api/booking/[id]/route": "/api/booking/[id]",
+  "/api/auth/login/route": "/api/auth/login",
+  "/api/auth/[...nextauth]/route": "/api/auth/[...nextauth]",
+  "/api/auth/register/route": "/api/auth/register",
+  "/api/booking/route": "/api/booking",
+  "/api/booking/qr/route": "/api/booking/qr",
+  "/api/city/route": "/api/city",
+  "/api/schedule/route": "/api/schedule",
+  "/api/user/avatar/route": "/api/user/avatar",
+  "/api/user/booking/route": "/api/user/booking",
+  "/api/user/route": "/api/user",
+  "/favicon.ico/route": "/favicon.ico",
+  "/page": "/"
+}
