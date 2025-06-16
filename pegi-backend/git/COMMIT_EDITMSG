@@ -1,0 +1,1 @@
+fix: update user PUT route to use 'image' instead of 'avatarUrl' for avatar handling
